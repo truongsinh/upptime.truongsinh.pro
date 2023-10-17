@@ -2,6 +2,10 @@
 owner: truongsinh # Your GitHub organization or username, where this repository lives
 repo: upptime.truongsinh.pro # The name of this repository
 
+workflowSchedule:
+  responseTime: "*/5 * * * *"
+  uptime: "*/5 * * * *"
+
 sites:
   - name: Photos
     url: https://photos.truongsinh.pro
