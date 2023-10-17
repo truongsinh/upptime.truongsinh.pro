@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-17": 252
+      "2023-10-17": 255
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://portainer.pnt.truongsinh.pro",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.pnt.truongsinh.pro.ico",
     "slug": "pnt",
-    "status": "down",
-    "uptime": "91.28%",
-    "uptimeDay": "91.28%",
-    "uptimeWeek": "91.28%",
-    "uptimeMonth": "91.28%",
-    "uptimeYear": "91.28%",
-    "time": 1585,
-    "timeDay": 1585,
-    "timeWeek": 1585,
-    "timeMonth": 1585,
-    "timeYear": 1585,
+    "status": "up",
+    "uptime": "90.24%",
+    "uptimeDay": "90.24%",
+    "uptimeWeek": "90.24%",
+    "uptimeMonth": "90.24%",
+    "uptimeYear": "90.24%",
+    "time": 1609,
+    "timeDay": 1609,
+    "timeWeek": 1609,
+    "timeMonth": 1609,
+    "timeYear": 1609,
     "dailyMinutesDown": {
-      "2023-10-17": 22
+      "2023-10-17": 25
     }
   }
 ]
