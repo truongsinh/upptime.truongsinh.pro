@@ -4,19 +4,19 @@
     "url": "https://photos.truongsinh.pro",
     "icon": "https://icons.duckduckgo.com/ip3/photos.truongsinh.pro.ico",
     "slug": "photos",
-    "status": "up",
-    "uptime": "90.56%",
-    "uptimeDay": "89.97%",
-    "uptimeWeek": "90.56%",
-    "uptimeMonth": "90.56%",
-    "uptimeYear": "90.56%",
-    "time": 2152,
-    "timeDay": 2128,
-    "timeWeek": 2152,
-    "timeMonth": 2152,
-    "timeYear": 2152,
+    "status": "down",
+    "uptime": "91.03%",
+    "uptimeDay": "89.93%",
+    "uptimeWeek": "91.03%",
+    "uptimeMonth": "91.03%",
+    "uptimeYear": "91.03%",
+    "time": 2139,
+    "timeDay": 2140,
+    "timeWeek": 2139,
+    "timeMonth": 2139,
+    "timeYear": 2139,
     "dailyMinutesDown": {
-      "2023-10-18": 144
+      "2023-10-18": 145
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-18": 850,
+      "2023-10-18": 936,
       "2023-10-17": 680
     }
   },
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.pnt.truongsinh.pro.ico",
     "slug": "pnt",
     "status": "up",
-    "uptime": "89.89%",
+    "uptime": "90.43%",
     "uptimeDay": "90.78%",
-    "uptimeWeek": "89.89%",
-    "uptimeMonth": "89.89%",
-    "uptimeYear": "89.89%",
-    "time": 1350,
-    "timeDay": 1355,
-    "timeWeek": 1350,
-    "timeMonth": 1350,
-    "timeYear": 1350,
+    "uptimeWeek": "90.43%",
+    "uptimeMonth": "90.43%",
+    "uptimeYear": "90.43%",
+    "time": 1332,
+    "timeDay": 1277,
+    "timeWeek": 1332,
+    "timeMonth": 1332,
+    "timeYear": 1332,
     "dailyMinutesDown": {
       "2023-10-18": 133,
       "2023-10-17": 22
