@@ -4,9 +4,9 @@
     "url": "https://photos.truongsinh.pro",
     "icon": "https://icons.duckduckgo.com/ip3/photos.truongsinh.pro.ico",
     "slug": "photos",
-    "status": "down",
+    "status": "up",
     "uptime": "84.08%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.60%",
     "uptimeWeek": "77.57%",
     "uptimeMonth": "68.61%",
     "uptimeYear": "84.08%",
@@ -16,7 +16,7 @@
     "timeMonth": 270,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2024-03-20": 1,
+      "2024-03-20": 6,
       "2024-03-19": 32,
       "2024-03-15": 236,
       "2024-03-14": 1440,
@@ -89,7 +89,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-20": 888,
+      "2024-03-20": 894,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -264,7 +264,7 @@
     "timeMonth": 0,
     "timeYear": 1539,
     "dailyMinutesDown": {
-      "2024-03-20": 889,
+      "2024-03-20": 895,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
