@@ -13,6 +13,8 @@ sites:
     url: https://photos.thornton.truongsinh.pro
   - name: avenida
     url: https://photos.avenida.truongsinh.pro
+  - name: dns.avenida
+    url: https://dns.avenida.truongsinh.pro/ready
   - name: pnt
     url: https://photos.pnt.truongsinh.pro
 
