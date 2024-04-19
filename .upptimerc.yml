@@ -10,10 +10,11 @@ sites:
   - name: Photos
     url: https://photos.truongsinh.pro
   - name: thorton
-    url: https://thorton.truongsinh.pro
+    url: https://photos.thornton.truongsinh.pro
+  - name: avenida
+    url: https://photos.avenida.truongsinh.pro
   - name: pnt
-    url: http://52pnt.ddns.net/
-    __dangerous__insecure: true
+    url: https://photos.pnt.truongsinh.pro
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
