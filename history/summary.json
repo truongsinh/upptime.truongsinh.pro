@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.truongsinh.pro.ico",
     "slug": "photos",
     "status": "up",
-    "uptime": "78.63%",
-    "uptimeDay": "89.85%",
-    "uptimeWeek": "93.49%",
-    "uptimeMonth": "94.93%",
+    "uptime": "78.62%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "93.65%",
+    "uptimeMonth": "94.96%",
     "uptimeYear": "70.80%",
     "time": 522,
     "timeDay": 296,
@@ -16,7 +16,7 @@
     "timeMonth": 374,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-04-17": 146,
+      "2025-04-17": 130,
       "2025-04-16": 159,
       "2025-04-15": 320,
       "2025-04-14": 31,
@@ -165,8 +165,7 @@
       "2024-05-17": 18,
       "2024-05-01": 271,
       "2024-04-30": 482,
-      "2024-04-19": 868,
-      "2024-04-18": 1110
+      "2024-04-19": 868
     }
   },
   {
@@ -175,13 +174,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.thornton.truongsinh.pro.ico",
     "slug": "thorton",
     "status": "up",
-    "uptime": "51.14%",
+    "uptime": "51.15%",
     "uptimeDay": "94.03%",
     "uptimeWeek": "97.80%",
     "uptimeMonth": "96.25%",
-    "uptimeYear": "76.84%",
+    "uptimeYear": "76.87%",
     "time": 269,
-    "timeDay": 221,
+    "timeDay": 223,
     "timeWeek": 207,
     "timeMonth": 279,
     "timeYear": 269,
@@ -319,8 +318,7 @@
       "2024-05-16": 1034,
       "2024-05-15": 308,
       "2024-04-29": 49,
-      "2024-04-19": 917,
-      "2024-04-18": 1440
+      "2024-04-19": 917
     }
   },
   {
@@ -340,7 +338,8 @@
     "timeMonth": 0,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2025-04-17": 1415,
+      "2025-04-18": 107,
+      "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -653,18 +652,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.avenida.truongsinh.pro.ico",
     "slug": "dns-avenida",
     "status": "down",
-    "uptime": "11.04%",
+    "uptime": "11.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.04%",
+    "uptimeYear": "11.03%",
     "time": 272,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2025-04-17": 1417,
+      "2025-04-18": 109,
+      "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -1012,7 +1012,8 @@
     "timeMonth": 0,
     "timeYear": 1018,
     "dailyMinutesDown": {
-      "2025-04-17": 1419,
+      "2025-04-18": 112,
+      "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -1344,8 +1345,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 527,
       "2024-04-27": 54,
-      "2024-04-19": 917,
-      "2024-04-18": 1440
+      "2024-04-19": 917
     }
   }
 ]
