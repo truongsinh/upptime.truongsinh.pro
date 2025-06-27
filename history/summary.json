@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.truongsinh.pro.ico",
     "slug": "photos",
     "status": "up",
-    "uptime": "82.63%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "84.28%",
-    "uptimeMonth": "39.07%",
-    "uptimeYear": "70.63%",
+    "uptime": "82.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "88.56%",
+    "uptimeMonth": "38.98%",
+    "uptimeYear": "70.62%",
     "time": 376,
-    "timeDay": 303,
-    "timeWeek": 300,
-    "timeMonth": 327,
+    "timeDay": 373,
+    "timeWeek": 310,
+    "timeMonth": 328,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2025-06-25": 39,
+      "2025-06-25": 78,
       "2025-06-24": 352,
       "2025-06-23": 301,
       "2025-06-20": 539,
@@ -163,7 +163,7 @@
       "2024-09-25": 1118,
       "2024-09-24": 17,
       "2024-09-23": 256,
-      "2024-09-22": 34
+      "2024-09-22": 19
     }
   },
   {
@@ -172,18 +172,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.thornton.truongsinh.pro.ico",
     "slug": "thorton",
     "status": "up",
-    "uptime": "82.57%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "84.29%",
-    "uptimeMonth": "39.07%",
-    "uptimeYear": "70.52%",
+    "uptime": "82.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "88.58%",
+    "uptimeMonth": "38.98%",
+    "uptimeYear": "70.51%",
     "time": 260,
-    "timeDay": 224,
-    "timeWeek": 213,
-    "timeMonth": 237,
+    "timeDay": 211,
+    "timeWeek": 211,
+    "timeMonth": 233,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2025-06-25": 39,
+      "2025-06-25": 78,
       "2025-06-24": 352,
       "2025-06-23": 301,
       "2025-06-20": 539,
@@ -334,7 +334,7 @@
       "2024-09-21": 1003,
       "2024-09-20": 156,
       "2024-09-19": 38,
-      "2024-09-15": 36
+      "2024-09-15": 16
     }
   },
   {
@@ -343,18 +343,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.avenida.truongsinh.pro.ico",
     "slug": "avenida",
     "status": "down",
-    "uptime": "15.12%",
+    "uptime": "15.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "2.28%",
-    "time": 307,
+    "time": 308,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 308,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-06-25": 1221,
+      "2025-06-27": 119,
+      "2025-06-26": 1440,
+      "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -710,9 +712,7 @@
       "2024-07-03": 163,
       "2024-07-02": 18,
       "2024-06-29": 1408,
-      "2024-06-28": 1440,
-      "2024-06-27": 1440,
-      "2024-06-26": 1440
+      "2024-06-28": 1440
     }
   },
   {
@@ -721,7 +721,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.avenida.truongsinh.pro.ico",
     "slug": "dns-avenida",
     "status": "down",
-    "uptime": "9.28%",
+    "uptime": "9.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -732,7 +732,9 @@
     "timeMonth": 0,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2025-06-25": 1224,
+      "2025-06-27": 121,
+      "2025-06-26": 1440,
+      "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -1092,9 +1094,7 @@
       "2024-07-03": 264,
       "2024-07-02": 18,
       "2024-06-29": 282,
-      "2024-06-28": 1440,
-      "2024-06-27": 1440,
-      "2024-06-26": 1440
+      "2024-06-28": 1440
     }
   },
   {
@@ -1103,18 +1103,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.pnt.truongsinh.pro.ico",
     "slug": "pnt",
     "status": "down",
-    "uptime": "9.56%",
+    "uptime": "9.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1504,
+    "time": 1327,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1331,
+    "timeYear": 1205,
     "dailyMinutesDown": {
-      "2025-06-25": 1226,
+      "2025-06-27": 123,
+      "2025-06-26": 1440,
+      "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -1476,9 +1478,7 @@
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
-      "2024-06-28": 1440,
-      "2024-06-27": 1440,
-      "2024-06-26": 1440
+      "2024-06-28": 1440
     }
   }
 ]
