@@ -4,18 +4,19 @@
     "url": "https://photos.truongsinh.pro",
     "icon": "https://icons.duckduckgo.com/ip3/photos.truongsinh.pro.ico",
     "slug": "photos",
-    "status": "up",
-    "uptime": "83.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "99.60%",
+    "status": "down",
+    "uptime": "83.84%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "70.69%",
     "time": 380,
     "timeDay": 344,
-    "timeWeek": 327,
+    "timeWeek": 328,
     "timeMonth": 330,
     "timeYear": 381,
     "dailyMinutesDown": {
+      "2025-08-09": 9,
       "2025-08-07": 177,
       "2025-07-04": 21,
       "2025-07-03": 44,
@@ -164,7 +165,7 @@
       "2024-10-09": 223,
       "2024-10-03": 50,
       "2024-09-27": 17,
-      "2024-09-26": 80
+      "2024-09-26": 35
     }
   },
   {
@@ -174,17 +175,16 @@
     "slug": "thorton",
     "status": "up",
     "uptime": "83.74%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "70.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "70.51%",
     "time": 266,
-    "timeDay": 236,
+    "timeDay": 235,
     "timeWeek": 237,
     "timeMonth": 239,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-08-09": 3,
       "2025-08-07": 177,
       "2025-07-04": 20,
       "2025-07-03": 43,
@@ -336,7 +336,7 @@
       "2024-09-26": 264,
       "2024-09-25": 1117,
       "2024-09-24": 17,
-      "2024-09-23": 192
+      "2024-09-23": 256
     }
   },
   {
@@ -356,7 +356,7 @@
     "timeMonth": 0,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2025-08-09": 563,
+      "2025-08-09": 600,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
@@ -740,7 +740,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-09": 565,
+      "2025-08-09": 602,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
@@ -1124,7 +1124,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-09": 567,
+      "2025-08-09": 604,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
