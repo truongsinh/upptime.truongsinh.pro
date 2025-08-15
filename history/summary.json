@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.truongsinh.pro.ico",
     "slug": "photos",
     "status": "down",
-    "uptime": "83.50%",
+    "uptime": "83.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "55.76%",
-    "uptimeMonth": "89.74%",
-    "uptimeYear": "69.87%",
+    "uptimeWeek": "42.87%",
+    "uptimeMonth": "86.45%",
+    "uptimeYear": "69.60%",
     "time": 381,
-    "timeDay": 408,
-    "timeWeek": 326,
-    "timeMonth": 328,
+    "timeDay": 279,
+    "timeWeek": 318,
+    "timeMonth": 326,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2025-08-14": 115,
+      "2025-08-15": 115,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1324,
@@ -177,18 +178,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.thornton.truongsinh.pro.ico",
     "slug": "thorton",
     "status": "down",
-    "uptime": "83.41%",
+    "uptime": "83.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "55.76%",
-    "uptimeMonth": "89.73%",
-    "uptimeYear": "69.70%",
+    "uptimeWeek": "42.84%",
+    "uptimeMonth": "86.44%",
+    "uptimeYear": "69.43%",
     "time": 266,
-    "timeDay": 212,
-    "timeWeek": 209,
-    "timeMonth": 233,
+    "timeDay": 200,
+    "timeWeek": 206,
+    "timeMonth": 232,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-08-14": 117,
+      "2025-08-15": 117,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1324,
@@ -352,7 +354,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.avenida.truongsinh.pro.ico",
     "slug": "avenida",
     "status": "down",
-    "uptime": "13.58%",
+    "uptime": "13.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -361,9 +363,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 304,
+    "timeYear": 305,
     "dailyMinutesDown": {
-      "2025-08-14": 119,
+      "2025-08-15": 120,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -726,8 +729,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   },
   {
@@ -736,7 +738,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.avenida.truongsinh.pro.ico",
     "slug": "dns-avenida",
     "status": "down",
-    "uptime": "8.33%",
+    "uptime": "8.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -747,7 +749,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-14": 122,
+      "2025-08-15": 122,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -1110,8 +1113,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   },
   {
@@ -1120,7 +1122,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.pnt.truongsinh.pro.ico",
     "slug": "pnt",
     "status": "down",
-    "uptime": "8.85%",
+    "uptime": "8.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1131,7 +1133,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-14": 124,
+      "2025-08-15": 124,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -1494,8 +1497,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   }
 ]
