@@ -4,19 +4,21 @@
     "url": "https://photos.truongsinh.pro",
     "icon": "https://icons.duckduckgo.com/ip3/photos.truongsinh.pro.ico",
     "slug": "photos",
-    "status": "down",
-    "uptime": "83.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.57%",
-    "uptimeYear": "68.78%",
-    "time": 382,
-    "timeDay": 440,
-    "timeWeek": 340,
-    "timeMonth": 328,
-    "timeYear": 382,
+    "status": "up",
+    "uptime": "82.76%",
+    "uptimeDay": "22.21%",
+    "uptimeWeek": "3.17%",
+    "uptimeMonth": "69.78%",
+    "uptimeYear": "68.22%",
+    "time": 383,
+    "timeDay": 412,
+    "timeWeek": 368,
+    "timeMonth": 334,
+    "timeYear": 384,
     "dailyMinutesDown": {
-      "2025-08-18": 121,
+      "2025-08-20": 218,
+      "2025-08-19": 1440,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -171,8 +173,7 @@
       "2024-10-10": 291,
       "2024-10-09": 223,
       "2024-10-03": 50,
-      "2024-09-27": 17,
-      "2024-09-26": 35
+      "2024-09-27": 17
     }
   },
   {
@@ -180,19 +181,21 @@
     "url": "https://photos.thornton.truongsinh.pro",
     "icon": "https://icons.duckduckgo.com/ip3/photos.thornton.truongsinh.pro.ico",
     "slug": "thorton",
-    "status": "down",
-    "uptime": "82.91%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.56%",
-    "uptimeYear": "68.60%",
-    "time": 267,
-    "timeDay": 281,
-    "timeWeek": 227,
-    "timeMonth": 234,
-    "timeYear": 267,
+    "status": "up",
+    "uptime": "82.67%",
+    "uptimeDay": "22.75%",
+    "uptimeWeek": "3.25%",
+    "uptimeMonth": "69.78%",
+    "uptimeYear": "68.05%",
+    "time": 268,
+    "timeDay": 296,
+    "timeWeek": 259,
+    "timeMonth": 240,
+    "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-08-18": 125,
+      "2025-08-20": 218,
+      "2025-08-19": 1440,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -351,7 +354,7 @@
       "2024-09-26": 264,
       "2024-09-25": 1117,
       "2024-09-24": 17,
-      "2024-09-23": 192
+      "2024-09-23": 141
     }
   },
   {
@@ -360,18 +363,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.avenida.truongsinh.pro.ico",
     "slug": "avenida",
     "status": "down",
-    "uptime": "13.47%",
+    "uptime": "13.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 305,
+    "time": 307,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 306,
+    "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-08-18": 127,
+      "2025-08-20": 549,
+      "2025-08-19": 1440,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -733,9 +738,7 @@
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
-      "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-21": 1440
     }
   },
   {
@@ -744,7 +747,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.avenida.truongsinh.pro.ico",
     "slug": "dns-avenida",
     "status": "down",
-    "uptime": "8.26%",
+    "uptime": "8.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -755,7 +758,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-18": 129,
+      "2025-08-20": 551,
+      "2025-08-19": 1440,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -1117,9 +1122,7 @@
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
-      "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-21": 1440
     }
   },
   {
@@ -1128,7 +1131,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.pnt.truongsinh.pro.ico",
     "slug": "pnt",
     "status": "down",
-    "uptime": "8.80%",
+    "uptime": "8.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1139,7 +1142,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-18": 131,
+      "2025-08-20": 554,
+      "2025-08-19": 1440,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -1501,9 +1506,7 @@
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
-      "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-21": 1440
     }
   }
 ]
