@@ -4,18 +4,19 @@
     "url": "https://photos.truongsinh.pro",
     "icon": "https://icons.duckduckgo.com/ip3/photos.truongsinh.pro.ico",
     "slug": "photos",
-    "status": "up",
-    "uptime": "87.70%",
-    "uptimeDay": "42.41%",
-    "uptimeWeek": "64.28%",
+    "status": "down",
+    "uptime": "87.74%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "64.56%",
     "uptimeMonth": "91.78%",
     "uptimeYear": "73.37%",
     "time": 369,
-    "timeDay": 287,
-    "timeWeek": 310,
-    "timeMonth": 336,
+    "timeDay": 311,
+    "timeWeek": 303,
+    "timeMonth": 332,
     "timeYear": 369,
     "dailyMinutesDown": {
+      "2025-12-19": 1,
       "2025-12-16": 941,
       "2025-12-15": 1440,
       "2025-12-14": 1191,
@@ -153,8 +154,7 @@
       "2025-01-22": 1315,
       "2025-01-17": 240,
       "2025-01-16": 3,
-      "2024-12-29": 26,
-      "2024-12-19": 18
+      "2024-12-29": 26
     }
   },
   {
@@ -163,18 +163,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.thornton.truongsinh.pro.ico",
     "slug": "thorton",
     "status": "down",
-    "uptime": "70.39%",
+    "uptime": "70.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "47.40%",
+    "uptimeYear": "46.85%",
     "time": 281,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 281,
+    "timeYear": 282,
     "dailyMinutesDown": {
-      "2025-12-17": 119,
+      "2025-12-19": 115,
+      "2025-12-18": 1440,
+      "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -397,8 +399,7 @@
       "2025-01-22": 1315,
       "2025-01-17": 240,
       "2025-01-16": 3,
-      "2024-12-29": 25,
-      "2024-12-19": 18
+      "2024-12-29": 25
     }
   },
   {
@@ -407,7 +408,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.avenida.truongsinh.pro.ico",
     "slug": "avenida",
     "status": "down",
-    "uptime": "10.78%",
+    "uptime": "10.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -418,7 +419,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-17": 127,
+      "2025-12-19": 123,
+      "2025-12-18": 1440,
+      "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -780,9 +783,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440,
-      "2024-12-18": 1440
+      "2024-12-20": 1440
     }
   },
   {
@@ -791,7 +792,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.avenida.truongsinh.pro.ico",
     "slug": "dns-avenida",
     "status": "down",
-    "uptime": "6.61%",
+    "uptime": "6.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -802,7 +803,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-17": 130,
+      "2025-12-19": 126,
+      "2025-12-18": 1440,
+      "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1164,9 +1167,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440,
-      "2024-12-18": 1440
+      "2024-12-20": 1440
     }
   },
   {
@@ -1175,7 +1176,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.pnt.truongsinh.pro.ico",
     "slug": "pnt",
     "status": "down",
-    "uptime": "7.45%",
+    "uptime": "7.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1186,7 +1187,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-17": 133,
+      "2025-12-19": 128,
+      "2025-12-18": 1440,
+      "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1548,9 +1551,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440,
-      "2024-12-18": 1440
+      "2024-12-20": 1440
     }
   }
 ]
