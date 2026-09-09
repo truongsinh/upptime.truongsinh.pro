@@ -4,16 +4,16 @@
     "url": "https://photos.truongsinh.pro",
     "icon": "https://icons.duckduckgo.com/ip3/photos.truongsinh.pro.ico",
     "slug": "photos",
-    "status": "up",
+    "status": "down",
     "uptime": "90.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "72.87%",
-    "uptimeMonth": "89.80%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "83.70%",
+    "uptimeMonth": "89.77%",
     "uptimeYear": "87.28%",
     "time": 345,
-    "timeDay": 336,
-    "timeWeek": 296,
-    "timeMonth": 341,
+    "timeDay": 298,
+    "timeWeek": 301,
+    "timeMonth": 343,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2025-09-13": 283,
@@ -98,7 +98,8 @@
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 64,
-      "2026-09-05": 270
+      "2026-09-05": 270,
+      "2026-09-09": 15
     }
   },
   {
@@ -107,7 +108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.thornton.truongsinh.pro.ico",
     "slug": "thorton",
     "status": "down",
-    "uptime": "52.68%",
+    "uptime": "52.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -118,7 +119,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-09": 233,
+      "2026-09-09": 1340,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -502,7 +503,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-09": 238,
+      "2026-09-09": 1344,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -886,7 +887,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-09": 239,
+      "2026-09-09": 1346,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -1259,7 +1260,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.pnt.truongsinh.pro.ico",
     "slug": "pnt",
     "status": "down",
-    "uptime": "5.58%",
+    "uptime": "5.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1270,7 +1271,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-09": 241,
+      "2026-09-09": 1349,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
