@@ -4,16 +4,16 @@
     "url": "https://photos.truongsinh.pro",
     "icon": "https://icons.duckduckgo.com/ip3/photos.truongsinh.pro.ico",
     "slug": "photos",
-    "status": "up",
+    "status": "down",
     "uptime": "90.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.18%",
-    "uptimeMonth": "72.53%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "72.50%",
     "uptimeYear": "85.90%",
     "time": 350,
     "timeDay": 262,
-    "timeWeek": 276,
-    "timeMonth": 418,
+    "timeWeek": 274,
+    "timeMonth": 419,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-10-07": 17,
@@ -106,7 +106,8 @@
       "2026-09-17": 648,
       "2026-09-16": 62,
       "2026-09-18": 368,
-      "2026-09-19": 237
+      "2026-09-19": 237,
+      "2026-09-25": 15
     }
   },
   {
@@ -126,7 +127,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-25": 250,
+      "2026-09-25": 312,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
@@ -510,7 +511,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-25": 254,
+      "2026-09-25": 316,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
@@ -894,7 +895,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-25": 256,
+      "2026-09-25": 317,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
@@ -1278,7 +1279,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-25": 258,
+      "2026-09-25": 319,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
