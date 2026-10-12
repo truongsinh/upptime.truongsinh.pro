@@ -4,16 +4,16 @@
     "url": "https://photos.truongsinh.pro",
     "icon": "https://icons.duckduckgo.com/ip3/photos.truongsinh.pro.ico",
     "slug": "photos",
-    "status": "up",
+    "status": "down",
     "uptime": "90.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.93%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "88.57%",
     "uptimeYear": "85.71%",
-    "time": 352,
-    "timeDay": 1040,
-    "timeWeek": 414,
-    "timeMonth": 387,
+    "time": 353,
+    "timeDay": 332,
+    "timeWeek": 409,
+    "timeMonth": 386,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2025-10-30": 829,
@@ -106,7 +106,8 @@
       "2026-09-16": 62,
       "2026-09-18": 368,
       "2026-09-19": 237,
-      "2026-09-25": 1026
+      "2026-09-25": 1026,
+      "2026-10-12": 10
     }
   },
   {
@@ -115,7 +116,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.thornton.truongsinh.pro.ico",
     "slug": "thorton",
     "status": "down",
-    "uptime": "51.08%",
+    "uptime": "51.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -126,7 +127,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 308,
+      "2026-10-12": 599,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -510,7 +511,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 312,
+      "2026-10-12": 603,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -894,7 +895,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 313,
+      "2026-10-12": 606,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -1278,7 +1279,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 314,
+      "2026-10-12": 610,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
